@@ -1,4 +1,4 @@
-ipython==7.4.0
+ipython==7.16.3
 ipywidgets==7.4.2
 matplotlib==3.0.3
 notebook==6.4.10
