@@ -1,7 +1,7 @@
 ipython==7.16.3
 ipywidgets==7.4.2
 matplotlib==3.0.3
-notebook==6.4.10
+notebook==6.4.12
 numpy==1.22.0
 pandas==0.24.2
 scikit-learn==0.20.3
